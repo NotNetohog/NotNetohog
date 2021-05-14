@@ -16,10 +16,10 @@ I 💜 front-end and my currently tech stack includes:
 
 You can find me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-netohog-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/netohog)](https://www.linkedin.com/in/jayraj-roshan/)
+[![Linkedin Badge](https://img.shields.io/badge/-netohog-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/netohog)](https://www.linkedin.com/in/netohog//)
 [![Dev.to Badge](https://img.shields.io/badge/-netohog-353940?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/netohog)](https://dev.to/netohog)
 [![Twitter Badge](https://img.shields.io/badge/-netohog-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=netohog "Follow on Twitter")
-[![Instagram Badge](https://img.shields.io/badge/-netohog-d826b2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/netohog/)](https://www.instagram.com/roshanjayraj/)
+[![Instagram Badge](https://img.shields.io/badge/-netohog-d826b2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/netohog/)](https://www.instagram.com/netohog/)
 [![Gmail Badge](https://img.shields.io/badge/-neto@bornlogic.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:neto@bornlogic.com)
 
 
