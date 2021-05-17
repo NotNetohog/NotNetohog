@@ -6,21 +6,21 @@ I’m currently working at [bornlogic](https://www.bornlogic.com) on gerentes**d
 
 I 💜 front-end and my currently tech stack includes:
 
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Storybook](https://img.shields.io/badge/-Storybook-ff4785?style=flat-square&logo=storybook&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-353940?style=flat-square&logo=github&logoColor=%23ffffff)
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-002f67?style=flat-square&logo=github-actions&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Jira Software](https://img.shields.io/badge/-JiraSoftware-0254cc?style=flat-square&logo=jira-software)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=262e30)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=262e30)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=%23ffffff)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-2088FF?style=flat-square&logo=github-actions&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Jira Software](https://img.shields.io/badge/-JiraSoftware-0052CC?style=flat-square&logo=jira-software)
 
 You can find me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-netohog-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/netohog)](https://www.linkedin.com/in/netohog//)
-[![Dev.to Badge](https://img.shields.io/badge/-netohog-353940?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/netohog)](https://dev.to/netohog)
-[![Twitter Badge](https://img.shields.io/badge/-netohog-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=netohog "Follow on Twitter")
-[![Instagram Badge](https://img.shields.io/badge/-netohog-d826b2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/netohog/)](https://www.instagram.com/netohog/)
-[![Gmail Badge](https://img.shields.io/badge/-neto@bornlogic.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:neto@bornlogic.com)
+[![Linkedin Badge](https://img.shields.io/badge/-netohog-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/netohog)](https://www.linkedin.com/in/netohog//)
+[![Dev.to Badge](https://img.shields.io/badge/-netohog-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/netohog)](https://dev.to/netohog)
+[![Twitter Badge](https://img.shields.io/badge/-netohog-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=netohog "Follow on Twitter")
+[![Instagram Badge](https://img.shields.io/badge/-netohog-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/netohog/)](https://www.instagram.com/netohog/)
+[![Gmail Badge](https://img.shields.io/badge/-neto@bornlogic.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:neto@bornlogic.com)
 
 
 
