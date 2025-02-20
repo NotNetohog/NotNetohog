@@ -4,7 +4,7 @@ monorepo advocate • developer experience maximalist • design engineer enthus
 
 ```typescript
 current_tech: {
-  arch: ['turborepo', 'trpc', 'micro-frontends'],
+  arch: ['turborepo', 'next.js', 'micro-frontends'],
   exploring: ['ai', 'web3']
 }
 ```
